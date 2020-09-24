@@ -650,11 +650,9 @@ async def tempmute(ctx, member:discord.Member , time: int):
 @bot.event
 async def on_message(message):
   await bot.process_commands(message)
-  purgeChannel = bot.get_channel(751658648320868381)
+
   if (message.content.startswith(f'{bot.user.mention}')):
         await message.channel.send("Hi, my prefix was `skull`" ) 
-  if message.channel == purgeChannel: 
-    #await bot.process_command(message)
-    await purgeChannel.purge(limit=1)
+  
 
 bot.run(TOKEN)
