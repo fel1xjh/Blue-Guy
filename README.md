@@ -4,7 +4,7 @@
 
 #Support server
 
-Join our [support server](https://discord.gg/Cf5a28H) if you need any help or **talk to users!**
+Join our [support server](https://discord.gg/Cf5a28H) if you need any help.
 
 # Invite link
 
