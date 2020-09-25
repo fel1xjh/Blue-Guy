@@ -4,6 +4,8 @@
 
 # About Blue Guy
 
+Blue Guy was a bot that was developed by **PhilipMarkJames#1521**
+
 # Support server
 
 Join our [support server](https://discord.gg/Cf5a28H) if you need any help.
